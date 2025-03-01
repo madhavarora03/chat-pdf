@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@clerk/nextjs": "^6.12.2",
     "@tailwindcss/postcss": "^4.0.9",
     "next": "15.2.0",
     "postcss": "^8.5.3",
