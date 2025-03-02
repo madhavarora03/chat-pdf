@@ -24,7 +24,6 @@ export default function Header() {
             <FilePlus2 className="text-indigo-600" />
           </Link>
         </Button>
-
         <UserButton />
       </div>
     </header>
